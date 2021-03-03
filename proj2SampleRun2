@@ -1,0 +1,19 @@
+Script started on Wed 03 Mar 2021 03:55:18 PM PST
+kdkohl@bec307dl01:~/comp230/projects/proj2\[38;5;39mdkohl[m[38;5;15m@[m[38;5;136mbec307dl01[m[38;5;15m [m[38;5;2mproj2[m[38;5;15m>[m javac proj2.java
+kdkohl@bec307dl01:~/comp230/projects/proj2\[38;5;39mdkohl[m[38;5;15m@[m[38;5;136mbec307dl01[m[38;5;15m [m[38;5;2mproj2[m[38;5;15m>[m java proj2
+Please enter the name of an ASCII file that contains a sorted list of integer numbers, one per line: 
+myNums.in
+Please enter the name of the output file that saves the result from the program: 
+myNums.out
+Do you want to run the program again (y for yes and n for no): 
+y
+Please enter the name of an ASCII file that contains a sorted list of integer numbers, one per line: 
+myNums2.in
+Please enter the name of the output file that saves the result from the program: 
+myNums. 2.out
+Do you want to run the program again (y for yes and n for no): 
+n
+kdkohl@bec307dl01:~/comp230/projects/proj2\[38;5;39mdkohl[m[38;5;15m@[m[38;5;136mbec307dl01[m[38;5;15m [m[38;5;2mproj2[m[38;5;15m>[m exit
+exit
+
+Script done on Wed 03 Mar 2021 03:55:52 PM PST
